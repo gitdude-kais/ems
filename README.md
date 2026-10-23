@@ -15,5 +15,16 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
 
+Use the following data to login:
+Role	Email	Password
+Admin	admin@example.com	123
+Employee (Arjun)	e@e.com	123
+Employee (Sneha)	employee2@example.com	123
+Employee (Ravi)	employee3@example.com	123
+Employee (Priya)	employee4@example.com	123
+Employee (Karan)	employee5@example.com	123
+
 View this project on:
    https://ems-rh8i.vercel.app/
+
+
